@@ -41,16 +41,16 @@ In contrast, the "AFTER" metrics reflect a significant enhancement in security m
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2023-03-15 17:04:29
-Stop Time 2023-03-16 17:04:29
+Start Time 2023-12-26 14:14:17
+Stop Time 2023-12-26 14:14:17
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 19470
-| Syslog                   | 3028
-| SecurityAlert            | 10
-| SecurityIncident         | 348
-| AzureNetworkAnalytics_CL | 843
+| SecurityEvent            | 41599
+| Syslog                   | 16753
+| SecurityAlert            | 34
+| SecurityIncident         | 363
+| AzureNetworkAnalytics_CL | 68043
 
 ## Attack Maps Before Hardening / Security Controls
 
@@ -59,13 +59,13 @@ Stop Time 2023-03-16 17:04:29
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
-Start Time 2023-03-18 15:37
-Stop Time	2023-03-19 15:37
+Start Time 2023-12-28 14:31:28
+Stop Time	2023-12-29 14:31:28
 
 | Metric                   | Count
 | ------------------------ | -----
-| SecurityEvent            | 8778
-| Syslog                   | 25
+| SecurityEvent            | 9321
+| Syslog                   | 5
 | SecurityAlert            | 0
 | SecurityIncident         | 0
 | AzureNetworkAnalytics_CL | 0

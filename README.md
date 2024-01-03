@@ -36,7 +36,6 @@ In contrast, the "AFTER" metrics reflect a significant enhancement in security m
 ## Attack Maps Before Hardening / Security Controls
 ![image](https://github.com/hoanghuydang/SOC-Honeynet-AAD/assets/127445164/81be8d38-73cd-4ca6-9414-9a54835676f3)
 ![image](https://github.com/hoanghuydang/SOC-Honeynet-AAD/assets/127445164/6791444d-69f9-4f8b-a146-e4eaef684fa2)
-![image](https://github.com/hoanghuydang/SOC-Honeynet-AAD/assets/127445164/c1a4670b-74d5-45e3-a180-70f6e7893abe)
 ![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
 ![image](https://github.com/hoanghuydang/SOC-Honeynet-AAD/assets/127445164/71579f5b-cd64-41d8-bde1-e6d0742ff951)
 

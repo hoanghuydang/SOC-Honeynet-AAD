@@ -43,8 +43,8 @@ In contrast, the "AFTER" metrics reflect a significant enhancement in security m
 ## Metrics Before Hardening / Security Controls
 
 The following table shows the metrics we measured in our insecure environment for 24 hours:
-Start Time 2023-12-26 14:14:17
-Stop Time 2023-12-26 14:14:17
+Start Time 2023-12-26 14:14:17<br>
+Stop Time	2023-12-26 14:14:17<br>
 
 | Metric                   | Count
 | ------------------------ | -----
@@ -61,8 +61,8 @@ Stop Time 2023-12-26 14:14:17
 ## Metrics After Hardening / Security Controls
 
 The following table shows the metrics we measured in our environment for another 24 hours, but after we have applied security controls:
-Start Time 2023-12-28 14:31:28
-Stop Time	2023-12-29 14:31:28
+Start Time 2023-12-28 14:31:28<br>
+Stop Time	2023-12-29 14:31:28<br>
 
 | Metric                   | Count
 | ------------------------ | -----
